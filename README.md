@@ -35,7 +35,7 @@ This project is licensed under the MIT License.
 
 
      
-# ScreenShots
+# Screenshots
 
 
 https://github.com/IPH-Technologies-Pvt-Ltd/Memory-Game-ReactJs/assets/104568987/983b5607-8e26-4e8f-a180-70d9ab578a26
