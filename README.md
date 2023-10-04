@@ -37,10 +37,10 @@ This project is licensed under the MIT License.
      
 # ScreenShots
 
-<img src="https://github.com/mohd-faizan-iphtech/Memory-Game-ReactJs/assets/124868842/7e701f96-aeb1-4054-aba4-7ee59e0d7acf" 
-     width="500" 
-     height="300" />
-   
+
+https://github.com/IPH-Technologies-Pvt-Ltd/Memory-Game-ReactJs/assets/104568987/983b5607-8e26-4e8f-a180-70d9ab578a26
+
+
 
 
 Feel free to customize this README file further based on the specifics of your project. Include additional sections like Installation Instructions, Usage Guidelines, Credits, etc., as needed.
